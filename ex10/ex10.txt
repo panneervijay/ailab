@@ -1,3 +1,0 @@
-Shortest Path: A -> B -> D -> F -> G
-Total Cost: 8
-
